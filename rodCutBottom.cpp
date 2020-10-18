@@ -31,7 +31,7 @@ int rod_cut(int price[], int n)
 int main() //This is main function
 {
     // int length[] = {1,2,3,4,5,6,7,8};
-    int price[] = {1,5,8,9,10,17,17,20};// These areinitial rod coordinates
+    int price[] = {1,5,8,9,10,17,17,20};// These are initial rod coordinates
 
     // rod length
     int n = 4;
