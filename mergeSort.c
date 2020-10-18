@@ -59,9 +59,9 @@ void mergeSort(int a[], int start, int end)
     }
 }
 
-int main()
+int main()      //This is main function
 {
-    int a[] = {4,8,1,3,10,9,2,11,5,6};
+    int a[] = {4,8,1,3,10,9,2,11,5,6};  //This is initial array to be sorted
     mergeSort(a, 0, 9);
 
     //printing array
